@@ -26,3 +26,6 @@
 - [ ] Add todolist for each .
 - [x] Make README
 
+---
+## Deployment
+To view the deployment [CLICK HERE](https://shouryabrahmastra.github.io/Timemanager/dist/index.html)
